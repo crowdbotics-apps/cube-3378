@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT cube_3378.wsgi:application
